@@ -7,11 +7,10 @@ Les tâches qu'un designer de jeux sont de créer le ­­­­­­­­­­­­­�
 
 
 
-
 Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
 
 ### Emploi 2 - Animateur 2d-3d
-4 à 5 lignes
+Les tâches d'un animateur 3D sont de donner vie à des objets/personnages et mettant l'animation de mouvement la plus fluide possible pour créer du réalisme.  Il travaille dans presque n'importe quel studio d'animation et même pour jeux vidéos.  Il faut avoir la capacité à être créatif, imaginatif, de travailler en équipe, etc... Un point qui m'intéresse sera que ma créativité sera développer, mais la pression de finir un projet vite m'intéresse moins.
 
 ### Emploi 3 - Design en web
 4 à 5 lignes 
