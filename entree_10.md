@@ -11,11 +11,13 @@ Les spécifications des outils d'ordinateurs, et les étapes d'un production d'u
 Je serais intéresser à l'animation 
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
-Bob ross
+Non
 
 ### Pour quel type d'entreprise préférerais-tu travailler? 
-
+Entreprise de jeux pour Ubisoft
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
+Animation 3D
 
 ### Est-ce que tu as préféré une sortie ou une conférence?
+X
