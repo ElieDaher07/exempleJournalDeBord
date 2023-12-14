@@ -12,5 +12,5 @@ https://trello.com/b/byziUhGH/oral-domaine-multi
 Tous les ressources nécessaires pour créer un jeu de ce niveau.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+On aura besoin de programmer le jeux, faire la modélisation 3D, animation 3D, les textures, le conception de niveau, le design, l'ingénierie de son, la composition de musique, la conception artistique et finallement le marketing. 
 
